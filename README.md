@@ -1,4 +1,4 @@
-👋 Hi, I’m @RikzahK
+👋 Hi, I’m Rikzah
 
 - 💻 **Profession**: Database Developer & AI Enthusiast
 - 🚀 **Experience**: Developed an operational DBMS in my 1st year, now deployed in the industry.
