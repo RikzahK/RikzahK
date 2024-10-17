@@ -1,12 +1,12 @@
 👋 Hi, I’m Rikzah
 
-- 💻 **Profession**: Database Developer & AI Enthusiast
+- 💻 **Interests**: Database Developer & AI Enthusiast
 - 🚀 **Experience**: Developed an operational DBMS in my 1st year, now deployed in the industry.
-- 📱 **Current Work**: Building an AI-integrated university management app
+- 📱 **Current Project**: Building an AI-integrated University Management App
 
 ### Interests
 - 👀 Interested in database development, AI, and machine learning innovations.
-- 🌱 Currently learning more about AI applications in EdTech and speech recognition.
+- 🌱 Final Year Student currently learning more about AI applications in EdTech and speech recognition.
 - 💞️ Looking to collaborate on AI-powered projects, especially those focused on education and Quran memorization.
 - 🎯 **Future Goal**: AI-powered Speech-To-Text engine for Quran memorization.
 
