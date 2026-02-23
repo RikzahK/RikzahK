@@ -1,13 +1,23 @@
-👋 Hi, I’m Rikzah
+# Rikzah  
 
-- 💻 **Interests**: Database Developer & AI Enthusiast
-- 🚀 **Experience**: Developed an operational DBMS in my 1st year, now deployed in the industry.
-- 📱 **Current Project**: Building an AI-integrated University Management App
+**AI Engineer | Software Developer**  
 
-### Interests
-- 👀 Interested in database development, AI, and machine learning innovations.
-- 🌱 Final Year Student currently learning more about AI applications in EdTech and speech recognition.
-- 💞️ Looking to collaborate on AI-powered projects, especially those focused on education and Quran memorization.
-- 🎯 **Future Goal**: AI-powered Speech-To-Text engine for Quran memorization.
+---
 
-⚡ **Fun fact**: I developed an operational DBMS in my 1st year, now deployed in the industry!
+## Profile  
+
+AI-focused engineer building production-grade intelligent systems with measurable real-world impact.  
+
+As a **first-year university student**, I architected and delivered a full-scale software platform that is now actively used in industry. Since then, my work has focused on integrating artificial intelligence with scalable software systems, delivering solutions that are both innovative and production-ready.  
+
+I design systems that are intelligent, reliable, and optimized for real-world deployment.  
+
+---
+
+## Core Expertise  
+
+- Applied Artificial Intelligence & Machine Learning  
+- Natural Language Processing & Speech Systems  
+- Scalable Software Architecture  
+- Backend Engineering & Database Optimization  
+- Intelligent Automation  
