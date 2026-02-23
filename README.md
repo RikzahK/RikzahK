@@ -2,36 +2,37 @@
 
 [LinkedIn](https://www.linkedin.com/in/rikzah-noorul-huda-khattal-78ab2b25b/) | [GitHub](https://github.com/RikzahK)  
 
-**Oracle APEX Cloud & Applications Engineer | AI-Driven Software Innovator | Valedictorian, CS 2025, University of West London**  
+**Oracle APEX Cloud & Applications Engineer | AI-Driven Software Innovator | CS Valedictorian 2025, University of West London**  
 
 ---
 
-## 🏅 Achievements
-![NASA Space Apps Challenge 2024](https://img.shields.io/badge/NASA_Space_Apps-2024-blue?style=for-the-badge&logo=nasa&logoColor=white)  
-![UAE Hackathon 2025 – Pioneers Track Winner](https://img.shields.io/badge/UAE_Hackathon-2025-yellow?style=for-the-badge)  
-🎓 **Valedictorian – Computer Science, University of West London, 2025**  
+## Achievements & Badges
+
+[![Valedictorian – Undergrad CS 2025, University of West London](https://img.shields.io/badge/Valedictorian-2025-blue?style=for-the-badge&logo=university&logoColor=white)](https://www.uwl.ac.uk/)  
+[![NASA Space Apps Challenge 2024 – Global Winner](https://img.shields.io/badge/NASA_Space_Apps-2024-blue?style=for-the-badge&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/)  
+[![UAE Hackathon 2025 – Pioneers Track Winner](https://img.shields.io/badge/UAE_Hackathon-2025-yellow?style=for-the-badge)](https://www.uaehackathon.com/)  
 
 ---
 
-## 🧠 Profile
+## Profile
 AI-focused engineer and Oracle APEX Cloud Applications professional, specializing in **intelligent, scalable, and production-ready systems**.  
 
-I have designed and delivered **enterprise-grade software platforms** integrating AI, cloud, and automation technologies, focusing on **real-world impact, reliability, and usability**.  
+I have designed and delivered **enterprise-grade software platforms** integrating AI, cloud, and automation technologies, with a focus on **real-world impact, reliability, and usability**.  
 
-Currently, I am working on **Oracle Cloud Applications** while exploring **advanced AI and NLP research** for further studies at the master’s level.  
+Currently, I am working on **Oracle Cloud Applications** while pursuing **advanced AI and NLP research** for master’s level studies.  
 
 ---
 
-## ⚡ Current Projects
-- **AI-Powered Quran Memorization & Tarteel Coach** – Provides real-time feedback on pronunciation and Tajweed rules.  
-- **Oracle APEX Cloud Applications** – Enterprise-grade, secure, and scalable applications to optimize business workflows.  
+## Current Projects
+- **AI-Powered Quran Memorization & Tarteel Coach** – Provides real-time feedback on recitation and Tajweed rules.  
+- **Oracle APEX Cloud Applications** – Enterprise-grade, secure, and scalable applications for businesses.  
 - **Intelligent Automation & Data Analytics** – AI-driven platforms for workflow optimization and actionable insights.  
-- **Scalable Full-Stack Systems** – Web and mobile applications integrating AI and cloud for production-ready deployment.  
+- **Scalable Full-Stack Systems** – Web and mobile applications integrating AI and cloud for production deployment.  
 - **AI-Powered Intelligent Systems** – Machine learning integrated with platforms to deliver innovative, production-ready solutions.  
 
 ---
 
-## 🌟 Core Expertise
+## Core Expertise
 - Applied Artificial Intelligence & Machine Learning  
 - Natural Language Processing & Speech Systems  
 - Scalable Software Architecture  
