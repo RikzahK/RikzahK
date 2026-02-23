@@ -50,8 +50,6 @@ Currently, I am working as an **Oracle Cloud Applications Engineer** while pursu
 
 ## 🛠 Tech Stack
 
-# 🛠 Tech Stack
-
 ---
 
 ## Programming Languages
