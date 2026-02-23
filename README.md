@@ -15,20 +15,22 @@
 ---
 
 ## Profile
-AI-focused engineer and Oracle APEX Cloud Applications professional, specializing in **intelligent, scalable, and production-ready systems**.  
+AI-focused engineer specializing in production-grade intelligent systems with measurable real-world impact.
 
-I have designed and delivered **enterprise-grade software platforms** integrating AI, cloud, and automation technologies, with a focus on **real-world impact, reliability, and usability**.  
+During my undergraduate studies, I developed a full-scale software platform that was deployed immediately and has since been scaled for broader use in industry.
 
-Currently, I am working on **Oracle Cloud Applications** while pursuing **advanced AI and NLP research** for master’s level studies.  
+Since then, my work has focused on integrating artificial intelligence with scalable software systems, delivering solutions that are reliable, maintainable, and optimized for real-world deployment.
+
+My approach emphasizes building systems that are practical, efficient, and designed to solve real-world challenges effectively.
+
+Currently, I am working as **Oracle Cloud Applications engineer ** while pursuing **advanced AI and NLP research** at master’s level .  
 
 ---
 
 ## Current Projects
-- **AI-Powered Quran Memorization & Tarteel Coach** – Provides real-time feedback on recitation and Tajweed rules.  
-- **Oracle APEX Cloud Applications** – Enterprise-grade, secure, and scalable applications for businesses.  
-- **Intelligent Automation & Data Analytics** – AI-driven platforms for workflow optimization and actionable insights.  
-- **Scalable Full-Stack Systems** – Web and mobile applications integrating AI and cloud for production deployment.  
+**Oracle APEX Cloud Applications** – Enterprise-grade, secure, and scalable applications for businesses. 
 - **AI-Powered Intelligent Systems** – Machine learning integrated with platforms to deliver innovative, production-ready solutions.  
+
 
 ---
 
@@ -78,28 +80,3 @@ Currently, I am working on **Oracle Cloud Applications** while pursuing **advanc
 
 
 
-
-
-# Rikzah  
-
-**AI Engineer | Software Developer**  
-
----
-
-## Profile  
-
-AI-focused engineer building production-grade intelligent systems with measurable real-world impact.  
-
-As a **first-year university student**, I architected and delivered a full-scale software platform that is now actively used in industry. Since then, my work has focused on integrating artificial intelligence with scalable software systems, delivering solutions that are both innovative and production-ready.  
-
-I design systems that are intelligent, reliable, and optimized for real-world deployment.  
-
----
-
-## Core Expertise  
-
-- Applied Artificial Intelligence & Machine Learning  
-- Natural Language Processing & Speech Systems  
-- Scalable Software Architecture  
-- Backend Engineering & Database Optimization  
-- Intelligent Automation  
