@@ -25,9 +25,7 @@ AI-focused engineer specializing in **production-grade intelligent systems** wit
 
 During my undergraduate studies, I **developed a full-scale software platform** that was **deployed immediately** and has since been **scaled for broader use in industry**.  
 
-Since then, my work has focused on **integrating artificial intelligence with scalable software systems**, delivering solutions that are **reliable, maintainable, and optimized for real-world deployment**.  
-
-My approach emphasizes building systems that are **practical, efficient, and designed to solve real-world challenges effectively**.  
+Since then, my work has focused on **integrating artificial intelligence with scalable software systems**, delivering solutions that are **reliable, maintainable, and optimized for real-world deployment**. My approach emphasizes building systems that are **practical, efficient, and designed to solve real-world challenges effectively**.  
 
 Currently, I am working as an **Oracle Cloud Applications Engineer** while pursuing **advanced AI and NLP research** at the master’s level.  
 
